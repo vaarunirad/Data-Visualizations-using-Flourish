@@ -1,5 +1,5 @@
 # An analysis of the socio-economic and developmental indicators around the world
-## A Data Visualization project using Flourish
+## An interactive Data Visualization project using Flourish
 
 Countries around the world have different forms of governments and cultures which individually affect their growth and development. Multilateral organizations like the World Bank have certain standard indicators that can help to understand and compare the development of countries, especially economically. One such indicator is the GDP or the Gross Domestic Product.
 
