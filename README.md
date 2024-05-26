@@ -3,6 +3,8 @@
 
 #### The project is hosted here: https://sites.google.com/view/veeravaruniradhakrishnan/home
 
+#### Below are screenshots of the interactive charts
+
 Countries around the world have different forms of governments and cultures which individually affect their growth and development. Multilateral organizations like the World Bank have certain standard indicators that can help to understand and compare the development of countries, especially economically. One such indicator is the GDP or the Gross Domestic Product.
 
 
